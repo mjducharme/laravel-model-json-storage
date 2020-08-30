@@ -1,5 +1,5 @@
 {
-    "name": "okipa/laravel-model-json-storage",
+    "name": "mjducharme/laravel-model-json-storage",
     "description": "Storing your models in a json file rather than in database (single or few lines recording) can be a good option. This package saves you to create a table for a ridiculous amount of lines, improves the data recovery performances, and allows you to store and access to your models from a json files as you would do it in database.",
     "keywords": [
         "okipa",
@@ -10,7 +10,7 @@
         "json",
         "storage"
     ],
-    "homepage": "https://github.com/Okipa/laravel-model-json-storage",
+    "homepage": "https://github.com/mjducharme/laravel-model-json-storage",
     "license": "MIT",
     "authors": [
         {
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "illuminate/support": "~5.0"
+        "illuminate/support": "~6.0"
     },
     "require-dev": {
         "orchestra/testbench": "^3.6"
